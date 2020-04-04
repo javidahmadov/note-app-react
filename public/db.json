@@ -1,0 +1,68 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "date": 1585748959000,
+      "isCompleted": false,
+      "title": "Hello World",
+      "text": "Chin-Chin ",
+      "color": "#6BBEA7"
+    },
+    {
+      "id": 2,
+      "date": 1585748983633,
+      "isCompleted": false,
+      "title": "Nice to meet you",
+      "text": "Me too",
+      "color": "#F15D19"
+    },
+    {
+      "id": 3,
+      "date": 1585749040550,
+      "isCompleted": false,
+      "title": "How are you?",
+      "text": "Thanks",
+      "color": "#CAF119"
+    },
+    {
+      "id": 4,
+      "date": 1585749117636,
+      "isCompleted": false,
+      "title": "How do you do?",
+      "text": "Normal",
+      "color": "#856CC6"
+    },
+    {
+      "id": "5",
+      "date": 1585837498623,
+      "isCompleted": false,
+      "title": "What do you want?",
+      "text": "Nothing",
+      "color": "#1D57A6"
+    },
+    {
+      "id": "6",
+      "date": 1585837555025,
+      "isCompleted": false,
+      "title": "Do you like?",
+      "text": "Yes",
+      "color": "#67C9C7"
+    },
+    {
+      "id": "650ed0-62b5-137b-cfa6-63d143747066",
+      "date": 1585844388757,
+      "isCompleted": false,
+      "title": "Hello World",
+      "text": "How are you?",
+      "color": "#5231FF"
+    },
+    {
+      "id": "1fd6bc-b5c3-c8c4-43a-78df6211f10",
+      "date": 1585996102275,
+      "isCompleted": false,
+      "title": "dadada",
+      "text": "sfsdsd",
+      "color": "#FF4F4F"
+    }
+  ]
+}
